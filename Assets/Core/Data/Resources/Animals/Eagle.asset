@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6861adb74354e3ebc7c8c31a167b78f, type: 3}
+  m_Name: Eagle
+  m_EditorClassIdentifier: 
+  <Stats>k__BackingField:
+    name: Eagle
+    speed: 2
+  <AnimalVisuals>k__BackingField: {fileID: 5132683525552073476, guid: 9b91ee823a3308c4ba59eb7c0575b65e, type: 3}
